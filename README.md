@@ -28,7 +28,7 @@ A sleek, responsive e-commerce web application built with modern frontend techno
 - **ReactJS** – Frontend library
 - **JavaScript** – Logic and dynamic functionality
 - **CSS** – Custom styling
-- **REST API** – Product data fetch (mocked via backend service or NxtWave backend)
+- **REST API** – Product data fetch
 
 ---
 
