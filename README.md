@@ -1,5 +1,8 @@
 # 👗 NextFashions
 
+username: rahul
+password:rahul@2021
+
 ![2](https://github.com/user-attachments/assets/c77d110e-2b28-4632-9b6a-f22847889c91)
 
 ![1](https://github.com/user-attachments/assets/d5a7993d-3a0e-44b5-a0d7-3ddde3ed6d2c)
